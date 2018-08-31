@@ -1,0 +1,22 @@
+{
+  "name": "moac-provider-engine",
+  "description": "Forked from https://github.com/MetaMask/provider-engine and modified to provide service to MOAC network",
+  "main": "dist/ProviderEngine.js",
+  "authors": [
+    "\"\""
+  ],
+  "license": "ISC",
+  "keywords": [
+    "MOAC",
+    "Web3",
+    "Provider"
+  ],
+  "homepage": "https://github.com/MOACChain/moac-provider-engine",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
